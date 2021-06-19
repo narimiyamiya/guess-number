@@ -1,4 +1,4 @@
-const numberImput =document.getElementById('number');
+const numberInput =document.getElementById('number');
 const btn =document.getElementById('btn');
 const randomNumber = Math.floor(Math.random()*6)+1;
 
